@@ -2,7 +2,7 @@
  ### Ola! Eu sou Maria Eduarda! 🖐️
 
 
-![MariaEduarda-Ciarini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&show_icons=true&theme=radical)
+![MariaEduarda-Ciarini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&show_icons=true&theme=dracula)
 
 
 
