@@ -17,6 +17,7 @@
   <img align="center" alt="![HTML5]" src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="Django" src ="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img align="center" alt="terminalwindows" src ="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
+  <img align="center" alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>	
 
   </div>
        </br>
