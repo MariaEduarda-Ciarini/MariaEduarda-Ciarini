@@ -37,7 +37,7 @@
 </br>
 
 ## Estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&langs_count=8)](https://github.com/MariaEduarda-Ciarini/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact)](https://github.com/MariaEduarda-Ciarini/github-readme-stats)
 
 </div>
 <br>
