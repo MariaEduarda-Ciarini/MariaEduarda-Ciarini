@@ -4,9 +4,6 @@
 
 ![MariaEduarda-Ciarini's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&show_icons=true&theme=synthwave)
 
-
-<br>
-
 # Estou aprimorando essas Tecnologias! 💻
 
 <div style="display: inline_block">
@@ -16,8 +13,8 @@
   <img align="center" alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="React" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF8"/>
   <img align="center" alt="Oracle Database" src ="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-  <img align="center" alt="git" src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/><br>
-</br>
+  <img align="center" alt="git" src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
   </div>
          
   # IDE's usadas no dia a dia
@@ -25,10 +22,11 @@
  <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
  <img align="center" alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=orange"/>
  <img align="center" alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
- <br>
+ 
 
-<br><div style="display: inline_block">
-</br>
+<div style="display: inline_block">
+ 
+ 
 # Estatísticas <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&exclude_repo=github-readme-stats,MariaEduarda-Ciarini.github.io)](https://github.com/MariaEduarda-Ciarini/github-readme-stats)
 
