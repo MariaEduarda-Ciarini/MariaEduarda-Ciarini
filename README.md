@@ -1,4 +1,4 @@
-![MariaEduarda-Ciarini's Stats](https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true) ![MariaEduarda-Ciarini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaEduarda-Ciarini&theme=highcontrast&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact)
 
 # Estou aprimorando essas Tecnologias! 💻
 
@@ -24,8 +24,8 @@
  
  
 # Estatísticas <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=donut-vertical)](https://github.com/MariaEduarda-Ciarini/github-readme-stats)
- 
+![MariaEduarda-Ciarini's Stats](https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true) ![MariaEduarda-Ciarini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaEduarda-Ciarini&theme=highcontrast&hide_border=true)
+
 
 </div>
 
