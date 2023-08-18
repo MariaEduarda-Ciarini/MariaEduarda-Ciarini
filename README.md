@@ -1,4 +1,6 @@
 ##  💻
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariaeduarda-ciarini&label=Profile%20views&color=0e75b6&style=flat" alt="mariaeduarda-ciarini" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaeduarda-ciarini" alt="mariaeduarda-ciarini" /></a> </p>
 
 <div style="display: inline_block">
   <img align="center" alt="Python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
