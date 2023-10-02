@@ -1,6 +1,4 @@
 # 💻
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaeduarda-ciarini" alt="mariaeduarda-ciarini" /></a> <br>
-</br>
 
 <div style="display: inline_block"> 
 
@@ -19,7 +17,7 @@
 
   </div><br>
 
-### Estatísticas <br>
+# Estatísticas <br>
 ![MariaEduarda-Ciarini's Stats](https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) ![MariaEduarda-Ciarini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaEduarda-Ciarini&theme=midnight-purple&hide_border=true)
     
 <div style="display: inline_block"><br>
