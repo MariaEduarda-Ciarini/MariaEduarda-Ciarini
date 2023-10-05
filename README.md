@@ -1,9 +1,6 @@
-# 💻
+# 💻 Aprimorando as Tech's
 
 <div style="display: inline_block"> 
-
-# Aprimorando Full Stack
-   
   <img align="center" alt="JavaScript" src ="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor"/>
   <img align="center" alt="html"src ="https://icongr.am/devicon/html5-original-wordmark.svg?size=65&color=currentColor"/>
   <img align="center" alt= "css3"src="https://icongr.am/devicon/css3-original-wordmark.svg?size=65&color=currentColor"/>
@@ -13,19 +10,23 @@
   <img align="center" alt="Java"src="https://icongr.am/devicon/java-original-wordmark.svg?size=71&color=currentColor"/>
   <img align="center" alt= "Python"src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor"/>
   <img align="center" alt= "NodeJS"src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=65&color=currentColor"/>
-  
+  <img align="center" alt="PBI" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png"/>
 
-  </div><br>
+</div><br>
 
 # Estatísticas <br>
-![MariaEduarda-Ciarini's Stats](https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) ![MariaEduarda-Ciarini's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaEduarda-Ciarini&theme=midnight-purple&hide_border=true)
-    
-<div style="display: inline_block"><br>
-  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact)
+![MariaEduarda-Ciarini's Stats](https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+<div style="display: inline_block">
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&exclude_repo=github-readme-stats,MariaEduarda-Ciarini.github.io)
+
+
 
 </div>
+
 <div style="display: inline_block">
+<br>
 
 # Entre em contato aqui
 <a href="mailto:dudaciarinii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
