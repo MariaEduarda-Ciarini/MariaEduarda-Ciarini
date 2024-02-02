@@ -1,4 +1,4 @@
-# 💻 Aprimorando as Tech's
+# 💻 Aprimorando as Tech's 👩🏻‍💻
 
 <div style="display: inline_block; background-color: #24292e; padding: 15px; border-radius: 10px;"> 
   <img align="center" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=65&color=currentColor"/>
