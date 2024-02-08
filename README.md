@@ -13,6 +13,8 @@
   <img align="center" alt="PBI" height="55" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png"/>
 </div><br>
 
+![](https://komarev.com/ghpvc/?username=MariaEduarda-Ciarini&color=blueviolet)
+
 # Estatísticas <br>
 <div style="display: flex; background-color: #24292e; padding: 15px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="MariaEduarda-Ciarini's Stats" width="60%" style="border-radius: 10px;">
