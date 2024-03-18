@@ -18,8 +18,8 @@
 # Estatísticas <br>
 <div style="display: flex; background-color: #24292e; padding: 15px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="MariaEduarda-Ciarini's Stats" width="60%" style="border-radius: 10px;">
-  <img height="220em" src='https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=midnight-purple&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=midnight-purple"/>  
+  <img height="200em" src='https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=midnight-purple&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=midnight-purple"/>  
 </div>
 
 <div style="display: inline_block">
