@@ -1,4 +1,5 @@
 # 💻 Aprimorando as Tech's 👩🏻‍💻
+![](https://komarev.com/ghpvc/?username=MariaEduarda-Ciarini&color=blueviolet)
 
 <div style="display: inline_block; background-color: #24292e; padding: 15px; border-radius: 10px;"> 
   <img align="center" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=65&color=currentColor"/>
@@ -12,8 +13,6 @@
   <img align="center" alt="NodeJS" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=100&color=currentColor"/>
   <img align="center" alt="PBI" height="55" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png"/>
 </div><br>
-
-![](https://komarev.com/ghpvc/?username=MariaEduarda-Ciarini&color=blueviolet)
 
 # Estatísticas <br>
 <div style="display: flex; background-color: #24292e; padding: 15px; border-radius: 10px;">
