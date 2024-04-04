@@ -1,5 +1,4 @@
 # 💻 Aprimorando as Tech's 👩🏻‍💻
-![](https://komarev.com/ghpvc/?username=MariaEduarda-Ciarini&color=blueviolet)
 
 <div style="display: inline_block; background-color: #24292e; padding: 15px; border-radius: 10px;"> 
   <img align="center" alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=65&color=currentColor"/>
@@ -16,8 +15,8 @@
 
 # Estatísticas <br>
 <div style="display: flex; background-color: #24292e; padding: 15px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="MariaEduarda-Ciarini's Stats" width="60%" style="border-radius: 10px;">
-  <img height="200em" src='https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=midnight-purple&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="MariaEduarda-Ciarini's Stats" width="45%" style="border-radius: 25px;">
+  <img height="150em" src='https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=midnight-purple&hide_border=false&date_format=j%20M%5B%20Y%5D'/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=7&hide=hack,scss,less,stylus&theme=midnight-purple"/>  
 </div>
 
