@@ -10,7 +10,7 @@
   <img align="center" alt="Java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=90&color=currentColor"/>
   <img align="center" alt="Python" src="https://icongr.am/devicon/python-original.svg?size=100&color=currentColor"/>
   <img align="center" alt="NodeJS" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=100&color=currentColor"/>
-  <img align="center" alt="PBI" height="55" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png"/>
+  <img align="center" alt="PBI" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png"/>
 </div><br>
 
 # Estatísticas <br>
