@@ -20,15 +20,15 @@
 ---
 # 📊 Estatísticas
 
-<div style="display: flex; justify-content: space-between; align-items: center; background-color: #0d1117; padding: 2px; border-radius: 8px; gap: 2px; margin-top: 5px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; background-color: #2E3440; padding: 2px; border-radius: 8px; gap: 2px; margin-top: 5px; flex-wrap: wrap;">
   <div style="flex: 1; margin-right: 1px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00acc1&border_color=0d1117" alt="Stats" width="80%" style="border-radius: 4px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=2E3440&title_color=000000&text_color=000000&icon_color=00acc1&border_color=0d1117" alt="Stats" width="80%" style="border-radius: 4px;">
   </div>
   <div style="flex: 1; margin-left: 1px; margin-right: 1px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&stroke=ffffff&ring=00acc1&fire=00acc1&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff" alt="Streak Stats" width="80%" style="border-radius: 4px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2E3440&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000" alt="Streak Stats" width="80%" style="border-radius: 4px;">
   </div>
   <div style="flex: 1; margin-left: 1px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=7&hide=hack,scss,less,stylus&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00acc1&border_color=0d1117" alt="Top Languages" width="80%" style="border-radius: 4px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=7&hide=hack,scss,less,stylus&bg_color=2E3440&title_color=000000&text_color=000000&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="80%" style="border-radius: 4px;">
   </div>
 </div>
 
