@@ -1,7 +1,5 @@
 # 🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP (2023-2025)
 
-<br>
-<br>
 
 # 💻 Estudando e Aprendendo essas Tecnologias 
 
@@ -20,8 +18,6 @@
 </div>
 
 ---
-<br>
-
 # 📊 Estatísticas
 
 <div style="display: flex; justify-content: space-between; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 10px; gap: 10px; margin-top: 20px;">
@@ -36,11 +32,7 @@
   </div>
 </div>
 
-
 ---
-
-<br>
-<br>
 
 # 📬 Entre em Contato
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 15px; margin-top: 15px;">
