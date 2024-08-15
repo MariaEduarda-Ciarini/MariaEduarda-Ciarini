@@ -5,7 +5,7 @@
 
 # 💻 Estudando e Aprendendo essas Tecnologias 
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; background-color: #24292e; padding: 20px; border-radius: 10px;">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; background-color: #2E3440; padding: 20px; border-radius: 10px; gap: 20px;">
   <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor"/>
   <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=80&color=currentColor"/>
   <img alt="CSS3" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=75&color=currentColor"/>
@@ -16,8 +16,9 @@
   <img alt="Python" src="https://icongr.am/devicon/python-original.svg?size=130&color=currentColor"/>
   <img alt="NodeJS" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=115&color=currentColor"/>
   <img alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="77" width="50"/>
-  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width: 75px; height: 80px; margin-left: 15px;"/>
+  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width: 75px; height: 80px;"/>
 </div>
+
 
 ---
 <br>
