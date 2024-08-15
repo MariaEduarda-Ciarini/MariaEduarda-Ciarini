@@ -24,13 +24,16 @@
 
 # 📊 Estatísticas
 
-
-<div style="display: flex; justify-content: space-around; background-color: #263238; padding: 50px; border-radius: 999px;">
-  <div style="display: flex; justify-content: space-around; background-color: #263238; padding: 0; border-radius: 50px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=263238&title_color=ffffff&text_color=ffffff&icon_color=00acc1&border_color=263238" alt="Stats" width="75%" style="border-radius: 10px; margin-right: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=263238&stroke=ffffff&ring=00acc1&fire=00acc1&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff" alt="Streak Stats" height="200em" style="border-radius: 10px;"/>
+<div style="display: flex; justify-content: space-around; background-color: #2E3440; padding: 20px; border-radius: 999px;">
+  <div style="display: flex; flex-direction: column; background-color: #2E3440; padding: 0; border-radius: 50px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=2E3440&title_color=ffffff&text_color=ffffff&icon_color=00acc1&border_color=2E3440" alt="Stats" width="200px" style="border-radius: 10px; margin-right: 10px;">
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=7&hide=hack,scss,less,stylus&bg_color=263238&title_color=ffffff&text_color=ffffff&icon_color=00acc1&border_color=263238" alt="Top Languages" height="200em" style="border-radius: 10px; margin-left: 10px;"/>
+  <div style="display: flex; flex-direction: column; background-color: #2E3440; padding: 0; border-radius: 50px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2E3440&stroke=ffffff&ring=00acc1&fire=00acc1&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff" alt="Streak Stats" width="200px" style="border-radius: 10px;">
+  </div>
+  <div style="display: flex; flex-direction: column; background-color: #2E3440; padding: 0; border-radius: 50px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=7&hide=hack,scss,less,stylus&bg_color=2E3440&title_color=ffffff&text_color=ffffff&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="200px" style="border-radius: 10px;">
+  </div>
 </div>
 
 
