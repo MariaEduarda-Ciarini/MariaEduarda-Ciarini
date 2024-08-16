@@ -32,13 +32,13 @@ Front-end | Back-end | Estudando no momento
 
 <div style="display: flex; justify-content: space-around; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 8px; gap: 10px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 280px; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=2E3440&title_color=&text_color=FF69B4&icon_color=FF69B4&border_color=FF69B4" alt="Stats" width="100%" style="border-radius: 4px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=2E3440&title_color=&text_color=FF69B4&icon_color=FF69B4&border_color=FF69B4" alt="Stats" width="85%" style="border-radius: 4px;">
   </div>
   <div style="flex: 1; min-width: 280px; margin: 5px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2E3440&stroke=FF69B4&ring=FF69B4&fire=black&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FF69B4" alt="Streak Stats" width="100%" style="border-radius: 4px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2E3440&stroke=FF69B4&ring=FF69B4&fire=black&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FF69B4" alt="Streak Stats" width="85%" style="border-radius: 4px;">
   </div>
   <div style="flex: 1; min-width: 280px; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&hide_progress=true&bg_color=2E3440&title_color=FF69B4&text_color=FF69B4&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="100%" style="border-radius: 4px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&hide_progress=true&bg_color=2E3440&title_color=FF69B4&text_color=FF69B4&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="85%" style="border-radius: 4px;">
   </div>
 </div>
 
