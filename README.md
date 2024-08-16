@@ -54,8 +54,8 @@ Front-end | Back-end | Estudando no momento
   </a>
 </div>
 
-<img align="right" width="150" height="200" src="https://media1.tenor.com/m/Kr9rT15CfW0AAAAC/icarly-icarly-interesting.gif">
-<img align="right" width="223" height="200" src="https://media1.tenor.com/m/Kr9rT15CfW0AAAAC/icarly-icarly-interesting.gif">
-<img align="right" width="150" height="200" src="https://media1.tenor.com/m/Kr9rT15CfW0AAAAC/icarly-icarly-interesting.gif">
-<img align="right" width="150" height="200" src="https://media1.tenor.com/m/Kr9rT15CfW0AAAAC/icarly-icarly-interesting.gif">
+<img align="right" width="150" height="200" src="interestingcarly/icarly-icarly-interesting.gif">
+<img align="right" width="223" height="200" src="interestingcarly/icarly-icarly-interesting.gif">
+<img align="right" width="150" height="200" src="interestingcarly/icarly-icarly-interesting.gif">
+<img align="right" width="150" height="200" src="interestingcarly/icarly-icarly-interesting.gif">
 
