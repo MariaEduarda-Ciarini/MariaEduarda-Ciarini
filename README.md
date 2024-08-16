@@ -54,8 +54,8 @@ Front-end | Back-end | Estudando no momento
   </a>
 </div>
 
-<img align="right" width="200" height="200" src="interestingcarly/icarly-icarly-interesting.gif">
-<img align="right" width="200" height="200" src="interestingcarly/icarly-icarly-interesting.gif">
-<img align="right" width="200" height="200" src="interestingcarly/icarly-icarly-interesting.gif">
-<img align="right" width="200" height="200" src="interestingcarly/icarly-icarly-interesting.gif">
+<img align="right" width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif">
+<img align="right" width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif">
+<img align="right" width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif">
+<img align="right" width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif">
 
