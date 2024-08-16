@@ -1,7 +1,6 @@
 # 🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP (2023-2025)
 
-<img align="right" height="195" src="https://i.imgur.com/I8IkACl.gif">
-<div align="center">
+<img align="right" height="195" src="interestingcarly/hmminterestingcarly- Imgur.gif"><div align="center">
 
 <div align="center">
 
