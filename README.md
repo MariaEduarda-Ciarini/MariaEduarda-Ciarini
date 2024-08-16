@@ -1,5 +1,16 @@
-## 🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP (2023-2025)
+# 🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP (2023-2025)
 
+<img align="right" height="195" src="https://i.imgur.com/I8IkACl.gif">
+<div align="center">
+
+<div align="center">
+
+Front-end | Back-end | Estudando no momento
+:---------:|:---------:|:----------------------:
+<a href="#"><img height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="HTML" /></a><a href="#"><img height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="CSS" /></a><a href="#"><img height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="JavaScript" /></a> | <a href="#"><img height="30" width="40" src="https://icongr.am/devicon/oracle-original.svg?size=40&color=currentColor" alt="Oracle" /></a><a href="#"><img height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=40&color=currentColor" alt="Java" /></a><a href="#"><img height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="Python" /></a> | <a href="#"><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" /></a><a href="#"><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" /></a><a href="#"><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" /></a>
+
+</div>
+</div>
 
 ## 💻 Estudando e Aprendendo essas Tecnologias 
 
@@ -14,12 +25,11 @@
   <img alt="Python" src="https://icongr.am/devicon/python-original.svg?size=100&color=currentColor"/>
   <img alt="NodeJS" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=90&color=currentColor"/>
   <img alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" width="35"/>
-  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width: 50px; height: 55px; margin-left: 15px;"/>
+  <img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40" width="35"/>
+  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width: 50px; height: 50px; margin-left: 10px;"/>
 </div>
 
----
-##  ⚙️  GitHub Analytics  
-
+##  ⚙️  GitHub Estatísticas
 
 <div style="display: flex; justify-content: space-between; align-items: center; background-color: #2E3440; padding: 2px; border-radius: 8px; gap: 2px; margin-top: 5px; flex-wrap: wrap;">
   <div style="flex: 1; margin-right: 1px;">
@@ -29,11 +39,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2E3440&stroke=FF69B4&ring=FF69B4&fire=black&currStreakLabel=FF69B4&sideLabels=FF69B4&currStreakNum=FF69B4" alt="Streak Stats" width="100%" style="border-radius: 4px;">
   </div>
   <div style="flex: 1; margin-left: 1px;">
-  <div style="flex: 1; margin-left: 1px;">
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&hide_progress=true&bg_color=2E3440&title_color=FF69B4&text_color=FF69B4&icon_color=00acc1&border_color=2E3440)
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&hide_progress=true&bg_color=2E3440&title_color=FF69B4&text_color=FF69B4&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="100%" style="border-radius: 4px;">
   </div>
 </div>
 
