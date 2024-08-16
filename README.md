@@ -54,8 +54,12 @@ Front-end | Back-end | Estudando no momento
   </a>
 </div>
 
-<img align="right" width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif">
-<img align="right" width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif">
-<img align="right" width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif">
-<img align="right" width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif">
+--------------------------------------------------------------------------------------------------------------------
+
+<div style="display: flex; justify-content: flex-end; gap: 10px; flex-wrap: wrap;">
+  <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 1">
+  <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 2">
+  <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 3">
+  <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 4">
+</div>
 
