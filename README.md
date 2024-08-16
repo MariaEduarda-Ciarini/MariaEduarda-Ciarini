@@ -1,7 +1,7 @@
 # 🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP (2023-2025)
 
 
-# 💻 Estudando e Aprendendo essas Tecnologias 
+## 💻 Estudando e Aprendendo essas Tecnologias 
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; background-color: #2E3440; padding: 10px; border-radius: 10px; gap: 10px;">
   <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor"/>
@@ -18,7 +18,8 @@
 </div>
 
 ---
-# 📊 Estatísticas
+##  ⚙️  GitHub Analytics  
+
 
 <div style="display: flex; justify-content: space-between; align-items: center; background-color: #2E3440; padding: 2px; border-radius: 8px; gap: 2px; margin-top: 5px; flex-wrap: wrap;">
   <div style="flex: 1; margin-right: 1px;">
@@ -28,13 +29,17 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MariaEduarda-Ciarini&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=2E3440&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000" alt="Streak Stats" width="80%" style="border-radius: 4px;">
   </div>
   <div style="flex: 1; margin-left: 1px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=7&hide=hack,scss,less,stylus&bg_color=2E3440&title_color=000000&text_color=000000&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="80%" style="border-radius: 4px;">
+  <div style="flex: 1; margin-left: 1px;">
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&hide_progress=true&bg_color=2E3440&title_color=000000&text_color=000000&icon_color=00acc1&border_color=2E3440)
+
   </div>
 </div>
 
 ---
 
-# 📬 Entre em Contato
+## 📬 Entre em Contato
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 15px; margin-top: 15px;">
   <a href="mailto:dudaciarinii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="200" style="border-radius: 5px;">
