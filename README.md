@@ -53,3 +53,9 @@ Front-end | Back-end | Estudando no momento
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" style="border-radius: 5px;">
   </a>
 </div>
+
+<img align="right" width="150" height="200" src="https://media1.tenor.com/m/Kr9rT15CfW0AAAAC/icarly-icarly-interesting.gif">
+<img align="right" width="223" height="200" src="https://media1.tenor.com/m/Kr9rT15CfW0AAAAC/icarly-icarly-interesting.gif">
+<img align="right" width="150" height="200" src="https://media1.tenor.com/m/Kr9rT15CfW0AAAAC/icarly-icarly-interesting.gif">
+<img align="right" width="150" height="200" src="https://media1.tenor.com/m/Kr9rT15CfW0AAAAC/icarly-icarly-interesting.gif">
+
