@@ -13,20 +13,21 @@ Front-end | Back-end | Estudando no momento
 
 ## 💻 Estudando e Aprendendo essas Tecnologias 
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; background-color: #2E3440; padding: 10px; border-radius: 10px; gap: 10px;">
-  <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor"/>
-  <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor"/>
-  <img alt="CSS3" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=55&color=currentColor"/>
-  <img alt="Oracle" src="https://icongr.am/devicon/oracle-original.svg?size=100&color=currentColor"/>
-  <img alt="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=85&color=currentColor"/>
-  <img alt="Django" src="https://icongr.am/devicon/django-original.svg?size=70&color=currentColor"/>
-  <img alt="Java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=100&color=currentColor"/>
-  <img alt="Python" src="https://icongr.am/devicon/python-original.svg?size=100&color=currentColor"/>
-  <img alt="NodeJS" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=90&color=currentColor"/>
-  <img alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" width="35"/>
-  <img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40" width="35"/>
-  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width: 50px; height: 50px; margin-left: 10px;"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 10px; gap: 15px;">
+  <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
+  <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
+  <img alt="CSS3" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=55&color=currentColor" style="flex: 0 1 55px;"/>
+  <img alt="Oracle" src="https://icongr.am/devicon/oracle-original.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
+  <img alt="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
+  <img alt="Django" src="https://icongr.am/devicon/django-original.svg?size=70&color=currentColor" style="flex: 0 1 70px;"/>
+  <img alt="Java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
+  <img alt="Python" src="https://icongr.am/devicon/python-original.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
+  <img alt="NodeJS" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
+  <img alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" width="35" style="flex: 0 1 50px;"/>
+  <img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40" width="35" style="flex: 0 1 40px;"/>
+  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width: 50px; height: 50px;"/>
 </div>
+
 
 ##  ⚙️  GitHub Estatísticas
 
