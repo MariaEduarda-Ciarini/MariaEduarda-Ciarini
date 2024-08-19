@@ -37,6 +37,9 @@ Front-end | Back-end | Estudando no momento
   </div>
   <div style="flex: 1; margin: 5px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&hide_progress=true&bg_color=2E3440&title_color=FF69B4&text_color=FF69B4&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="85%" style="border-radius: 25px;">
+    <a href="https://wakatime.com/badge/github/MariaEduarda-Ciarini/MariaEduarda-Ciarini">
+  <img src="https://wakatime.com/badge/github/MariaEduarda-Ciarini/MariaEduarda-Ciarini.svg?style=plastic" alt="WakaTime">
+  </a>
   </div>
 </div>
 
