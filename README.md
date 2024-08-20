@@ -38,14 +38,16 @@ Front-end | Back-end | Estudando no momento
   <div style="flex: 1; margin: 4px; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&hide_progress=true&bg_color=2E3440&title_color=FF69B4&text_color=FF69B4&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="75%" style="border-radius: 25px;">
   </div>
-  <div style="flex: 1; margin: px; text-align: center;">
+  <div style="flex: 1; margin: 4px; text-align: center;">
     <a href="https://wakatime.com/badge/user/3a7360a7-6c62-47f0-8e1f-5d37d04c144d/project/2407798b-e59a-450b-baa5-c75bedf2b21f">
       <img src="https://wakatime.com/badge/user/3a7360a7-6c62-47f0-8e1f-5d37d04c144d/project/2407798b-e59a-450b-baa5-c75bedf2b21f.svg?style=plastic" alt="WakaTime" style="margin-bottom: 10px;">
     </a>
-    <img src="https://wakatime.com/share/@Ciarini/ad2fa113-e45f-4a1f-bda3-5cbfa2daa899.svg" alt="Wakatime Stats" width="100%" style="border-radius: 4px;">
-  
+  </div>
+  <div style="flex: 1; margin: 4px; text-align: center;">
+    <img src="https://wakatime.com/share/@Ciarini/23e50272-c292-488b-b08b-a03454dcb312.svg?style=plastic" alt="WakaTime Stats" width="75%" style="border-radius: 4px;">
   </div>
 </div>
+
 
 
 
