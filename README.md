@@ -31,16 +31,19 @@ Front-end | Back-end | Estudando no momento
 
 ##  ⚙️  GitHub Estatísticas
 
-<div style="display: flex; justify-content: space-between; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 8px; gap: 10px; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 4px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=2E3440&title_color=&text_color=FF69B4&icon_color=FF69B4&border_color=FF69B4" alt="Stats" width="75%" style="border-radius: 4px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 8px; gap: 10px;">
+  <!-- Painéis em Linha -->
+  <div style="flex: 1; min-width: 200px; margin: 4px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=2E3440&title_color=&text_color=FF69B4&icon_color=FF69B4&border_color=FF69B4" alt="Stats" width="100%" style="border-radius: 4px;">
   </div>
-  <div style="flex: 1; margin: 4px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&hide_progress=true&bg_color=2E3440&title_color=FF69B4&text_color=FF69B4&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="75%" style="border-radius: 25px;">
+  <div style="flex: 1; min-width: 200px; margin: 4px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&hide_progress=true&bg_color=2E3440&title_color=FF69B4&text_color=FF69B4&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="100%" style="border-radius: 25px;">
   </div>
-  <div style="flex: 1; margin: 4px; text-align: center;">
-    <img src="https://wakatime.com/share/@Ciarini/23e50272-c292-488b-b08b-a03454dcb312.svg?style=plastic" alt="WakaTime Stats" width="75%" style="border-radius: 4px; background-color: transparent;">
-    <br>
+  <div style="flex: 1; min-width: 200px; margin: 4px; text-align: center;">
+    <img src="https://wakatime.com/share/@Ciarini/23e50272-c292-488b-b08b-a03454dcb312.svg?style=plastic" alt="WakaTime Stats" width="100%" style="border-radius: 4px; background-color: transparent;">
+  </div>
+  <!-- Painel de Barras em Linha Inferior -->
+  <div style="width: 100%; text-align: center; margin-top: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ciarini&layout=compact&theme=plastic" alt="Maria Eduarda Ciarini's WakaTime stats" style="border-radius: 4px; background-color: transparent;">
     </a>
