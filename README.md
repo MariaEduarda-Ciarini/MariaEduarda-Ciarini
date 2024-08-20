@@ -10,9 +10,6 @@ Front-end | Back-end | Estudando no momento
 
 </div>
 </div>
-
-## 💻 Estudando e Aprendendo essas Tecnologias 
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 10px; gap: 15px;">
   <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
   <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
@@ -28,8 +25,7 @@ Front-end | Back-end | Estudando no momento
   <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width: 50px; height: 50px;"/>
 </div>
 
-
-##  ⚙️  GitHub Estatísticas
+## ⚙️ GitHub Estatísticas
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 8px; gap: 10px;">
   <div style="flex: 1; min-width: 200px; margin: 4px; text-align: center;">
@@ -39,15 +35,14 @@ Front-end | Back-end | Estudando no momento
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&hide_progress=true&bg_color=2E3440&title_color=FF69B4&text_color=FF69B4&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="100%" style="border-radius: 25px;">
   </div>
   <div style="flex: 1; min-width: 200px; margin: 4px; text-align: center;">
-    <img src="https://wakatime.com/share/@Ciarini/23e50272-c292-488b-b08b-a03454dcb312.svg?style=plastic" alt="WakaTime Stats" width="100%" style="border-radius: 4px; background-color: transparent;">
-  </div>
-  <div style="width: 100%; text-align: center; margin-top: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ciarini&layout=compact&theme=plastic" alt="Maria Eduarda Ciarini's WakaTime stats" style="border-radius: 4px; background-color: transparent;">
     </a>
   </div>
+  <div style="width: 100%; text-align: center; margin-top: 10px;">
+    <img src="https://wakatime.com/share/@Ciarini/23e50272-c292-488b-b08b-a03454dcb312.svg?style=plastic" alt="WakaTime Stats" width="100%" style="border-radius: 4px; background-color: transparent;">
+  </div>
 </div>
-
 
 ---
 
@@ -61,7 +56,7 @@ Front-end | Back-end | Estudando no momento
   </a>
 </div>
 
---------------------------------------------------------------------------------------------------------------------
+---
 
 <div style="display: flex; justify-content: flex-end; gap: 10px; flex-wrap: wrap;">
   <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 1">
