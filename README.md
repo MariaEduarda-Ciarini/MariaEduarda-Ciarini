@@ -42,7 +42,6 @@ Front-end | Back-end | Estudando no momento
   <div style="flex: 1; min-width: 200px; margin: 4px; text-align: center;">
     <img src="https://wakatime.com/share/@Ciarini/23e50272-c292-488b-b08b-a03454dcb312.svg?style=plastic" alt="WakaTime Stats" width="100%" style="border-radius: 4px; background-color: transparent;">
   </div>
-  <!-- Painel de Barras em Linha Inferior -->
   <div style="width: 100%; text-align: center; margin-top: 10px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ciarini&layout=compact&theme=plastic" alt="Maria Eduarda Ciarini's WakaTime stats" style="border-radius: 4px; background-color: transparent;">
