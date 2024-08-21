@@ -10,6 +10,8 @@ Front-end | Back-end | Estudando no momento
 
 </div>
 </div>
+
+<h2>Aprimorando essas tecnologias</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 10px; gap: 15px;">
   <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
   <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
@@ -25,6 +27,7 @@ Front-end | Back-end | Estudando no momento
   <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width: 50px; height: 50px;"/>
 </div>
 
+
 ## ⚙️ GitHub Estatísticas
 
 <div style="display: flex; gap: 10px;">
@@ -38,8 +41,6 @@ Front-end | Back-end | Estudando no momento
   </div>
 
 </div>
-
----
 
 ## 📬 Entre em Contato
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 15px; margin-top: 15px;">
