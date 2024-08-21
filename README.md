@@ -27,7 +27,7 @@ Front-end | Back-end | Estudando no momento
 
 ## ⚙️ GitHub Estatísticas
 
-<<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px;">
 
   <div style="flex: 1; min-width: 150px; max-width: 48%; margin: 4px; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=11191f33&text_color=FF69B4&icon_color=FF69B4&border_color=55555555" alt="Stats" width="100%" style="border-radius: 8px;">
