@@ -27,22 +27,12 @@ Front-end | Back-end | Estudando no momento
 
 ## ⚙️ GitHub Estatísticas
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 8px; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="flex: 1; min-width: 200px; max-width: 48%; margin: 4px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=2E3440&title_color=&text_color=FF69B4&icon_color=FF69B4&border_color=FF69B4" alt="Stats" width="100%" style="border-radius: 4px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=2E3440&text_color=FF69B4&icon_color=FF69B4&border_color=FF69B4" alt="Stats" width="100%" style="border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 200px; max-width: 48%; margin: 4px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&hide_progress=true&bg_color=2E3440&title_color=FF69B4&text_color=FF69B4&icon_color=00acc1&border_color=2E3440" alt="Top Languages" width="100%" style="border-radius: 25px;">
-  </div>
-</div>
-
-  <div style="flex: 1; min-width: 200px; margin: 4px; text-align: center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ciarini&layout=compact&theme=plastic" alt="Maria Eduarda Ciarini's WakaTime stats" style="border-radius: 4px; background-color: transparent;">
-    </a>
-  </div>
-  <div style="width: 100%; text-align: center; margin-top: 10px;">
-    <img src="https://wakatime.com/share/@Ciarini/23e50272-c292-488b-b08b-a03454dcb312.svg?style=plastic" alt="WakaTime Stats" width="100%" style="border-radius: 4px; background-color: transparent;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=10&theme=dark&bg_color=11191f33&border_color=55555555" alt="Top Languages" width="100%" style="border-radius: 8px;">
   </div>
 </div>
 
