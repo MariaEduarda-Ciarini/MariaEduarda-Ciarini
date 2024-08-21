@@ -1,6 +1,6 @@
 # 🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP (2023-2025)
 
-<img align="right" height="195" src="interestingcarly/hmminterestingcarly- Imgur.gif"><div align="center">
+<div align="center">
 <div align="center">
 
 Front-end | Back-end | Estudando no momento
@@ -11,7 +11,7 @@ Front-end | Back-end | Estudando no momento
 </div>
 
 
-<h2>Aprimorando essas tecnologias</h2> 
+<h2> 👩🏽‍💻 Aprimorando essas tecnologias</h2> 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 10px; gap: 15px;">
   <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
   <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
@@ -31,7 +31,6 @@ Front-end | Back-end | Estudando no momento
 ## ⚙️ GitHub Estatísticas
 
 <div style="display: flex; gap: 10px;">
-
   <div style="flex: 1; min-width: 150px; max-width: 48%; margin: 4px; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=11191f33&text_color=FF69B4&icon_color=FF69B4&border_color=55555555" alt="Stats" width="100%" style="border-radius: 8px;">
   </div>
@@ -54,9 +53,11 @@ Front-end | Back-end | Estudando no momento
 
 ---
 
-<div style="display: flex; justify-content: flex-end; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 1">
   <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 2">
   <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 3">
   <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 4">
+  <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 5">
 </div>
+
