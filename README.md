@@ -34,13 +34,13 @@ Front-end | Back-end | Estudando no momento
   <div style="flex: 1; min-width: 150px; max-width: 48%; margin: 4px; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=11191f33&text_color=FF69B4&icon_color=FF69B4&border_color=55555555" alt="Stats" width="100%" style="border-radius: 8px;">
   </div>
-
   <div style="flex: 1; min-width: 150px; max-width: 48%; margin: 4px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=10&theme=dark&bg_color=11191f33&border_color=55555555" alt="Top Languages" width="100%" style="border-radius: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=10&theme=dark&bg_color=55555555&border_color=55555555" alt="Top Languages" width="100%" style="border-radius: 8px;">
   </div>
 
 </div>
 
+---
 ## 📬 Entre em Contato
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 15px; margin-top: 15px;">
   <a href="mailto:dudaciarinii@gmail.com">
@@ -49,15 +49,5 @@ Front-end | Back-end | Estudando no momento
   <a href="https://www.linkedin.com/in/maria-eduarda-ciarini-b97ab6270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200" style="border-radius: 5px;">
   </a>
-</div>
-
----
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
-  <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 1">
-  <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 2">
-  <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 3">
-  <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 4">
-  <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 5">
 </div>
 
