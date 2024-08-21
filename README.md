@@ -37,7 +37,7 @@ Front-end | Back-end | Estudando no momento
   </div>
 
 <div style="flex: 2; min-width: 150px; max-width: 50%; margin: 3px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=10&theme=dark&bg_color=11191f33&border_color=00000000&title_color=DB7093&text_color=2E8B57" alt="Top Languages" width="100%" style="border-radius: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=10&theme=dark&bg_color=11191f33&border_color=00000000&title_color=DB7093&text_color=2E8B57&text_bold=true" alt="Top Languages" width="100%" style="border-radius: 8px;">
 </div>
 
 </div>
