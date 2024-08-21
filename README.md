@@ -30,15 +30,13 @@ Front-end | Back-end | Estudando no momento
 
 ## ⚙️ GitHub Estatísticas
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 150px; max-width: 48%; margin: 4px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=11191f33&text_color=2E8B57&icon_color=FFFF00&border_color=000000&title_color=DB7093&text_bold=true" alt="Stats" width="100%" style="border-radius: 8px;">
-  </div>
+<a href="https://github.com/MariaEduarda-Ciarini">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=11191f33&text_color=2E8B57&icon_color=FFFF00&border_color=000000&title_color=DB7093" />
+</a>
 
-  <div style="flex: 1; min-width: 150px; max-width: 48%; margin: 4px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=10&theme=dark&bg_color=11191f33&border_color=00000000&title_color=DB7093&text_color=2E8B57&text_bold=true" alt="Top Languages" width="100%" style="border-radius: 8px;">
-  </div>
-</div>
+<a href="https://github.com/MariaEduarda-Ciarini">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=10&theme=dark&bg_color=11191f33&border_color=00000000&title_color=DB7093&text_color=2E8B57&text_bold=true"/>
+</a>
 
 
 ---
