@@ -28,7 +28,7 @@ Front-end | Back-end | Estudando no momento
 </div>
 
 
-## ⚙️ GitHub Estatísticas
+<h2 style="color: #DB7093;">⚙️ GitHub Estatísticas</h2>
 
 <a href="https://github.com/MariaEduarda-Ciarini">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=11191f33&text_color=2E8B57&icon_color=FFFF00&border_color=000000&title_color=DB7093&text_bold=true"" />
@@ -40,7 +40,7 @@ Front-end | Back-end | Estudando no momento
 
 ---
 
-## 📬 Entre em Contato
+<h2 style="color: #DB7093;">📬 Entre em Contato</h2>
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 15px; margin-top: 15px;">
   <a href="mailto:dudaciarinii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="200" style="border-radius: 5px;">
