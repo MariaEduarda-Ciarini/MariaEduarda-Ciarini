@@ -1,8 +1,7 @@
 # 🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP (2023-2025)
 
-<img align="right" height="195" src="interestingcarly/hmminterestingcarly- Imgur.gif"><div align="center">
-
 <div align="center">
+  <div align="center">
 
 Front-end | Back-end | Estudando no momento
 :---------:|:---------:|:----------------------:
@@ -11,7 +10,10 @@ Front-end | Back-end | Estudando no momento
 </div>
 </div>
 
-<h2>Aprimorando essas tecnologias</h2>
+<img align="right" height="195" src="interestingcarly/hmminterestingcarly- Imgur.gif"><div align="center">
+<div align="center">
+
+<h2>Aprimorando essas tecnologias</h2> 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 10px; gap: 15px;">
   <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
   <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
