@@ -12,7 +12,7 @@ Front-end | Back-end | Estudando no momento
 
 
 <h2> 👩🏽‍💻 Aprimorando essas tecnologias</h2> 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; background-color: #2E3440; padding: 10px; border-radius: 10px; gap: 15px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; background-color: #55555555; padding: 10px; border-radius: 10px; gap: 15px;">
   <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
   <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
   <img alt="CSS3" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=55&color=currentColor" style="flex: 0 1 55px;"/>
@@ -53,7 +53,7 @@ Front-end | Back-end | Estudando no momento
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
   <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 1">
   <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 2">
   <img width="190" height="223" src="interestingcarly/icarly-icarly-interesting.gif" alt="GIF 3">
