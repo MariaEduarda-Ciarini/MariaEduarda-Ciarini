@@ -1,4 +1,4 @@
-# 🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP (2023-2025)
+<h1 style="color: #DB7093;">🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP (2023-2025)</h1>
 
 <div align="center">
 <div align="center">
@@ -11,7 +11,7 @@ Front-end | Back-end | Estudando no momento
 </div>
 
 
-<h2> 👩🏽‍💻 Aprimorando essas tecnologias</h2> 
+<h2 style="color: #DB7093;">👩🏽‍💻 Aprimorando essas tecnologias</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; background-color: #55555555; padding: 10px; border-radius: 10px; gap: 15px;">
   <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
   <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
@@ -31,7 +31,7 @@ Front-end | Back-end | Estudando no momento
 ## ⚙️ GitHub Estatísticas
 
 <a href="https://github.com/MariaEduarda-Ciarini">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=11191f33&text_color=2E8B57&icon_color=FFFF00&border_color=000000&title_color=DB7093" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=11191f33&text_color=2E8B57&icon_color=FFFF00&border_color=000000&title_color=DB7093&text_bold=true"" />
 </a>
 <a href="https://github.com/MariaEduarda-Ciarini">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=10&theme=dark&bg_color=11191f33&border_color=00000000&title_color=DB7093&text_color=2E8B57&text_bold=true"/>
