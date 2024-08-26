@@ -12,20 +12,45 @@ Front-end | Back-end | Estudando no momento
 
 
 <h2 style="color: #DB7093;">👩🏽‍💻 Aprimorando essas tecnologias</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; background-color: #55555555; padding: 10px; border-radius: 10px; gap: 15px;">
-  <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
-  <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
-  <img alt="CSS3" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=55&color=currentColor" style="flex: 0 1 55px;"/>
-  <img alt="Oracle" src="https://icongr.am/devicon/oracle-original.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
-  <img alt="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
-  <img alt="Django" src="https://icongr.am/devicon/django-original.svg?size=70&color=currentColor" style="flex: 0 1 70px;"/>
-  <img alt="Java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
-  <img alt="Python" src="https://icongr.am/devicon/python-original.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
-  <img alt="NodeJS" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
-  <img alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" width="35" style="flex: 0 1 50px;"/>
-  <img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40" width="35" style="flex: 0 1 40px;"/>
-  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width: 50px; height: 50px;"/>
+<div style="background-color: #55555555; padding: 10px; border-radius: 10px; text-align: center;">
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" width="60"/>
+  </div>
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" width="60"/>
+  </div>
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="CSS3" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=55&color=currentColor" width="55"/>
+  </div>
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="Oracle" src="https://icongr.am/devicon/oracle-original.svg?size=80&color=currentColor" width="80"/>
+  </div>
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=80&color=currentColor" width="80"/>
+  </div>
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="Django" src="https://icongr.am/devicon/django-original.svg?size=70&color=currentColor" width="70"/>
+  </div>
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="Java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=80&color=currentColor" width="80"/>
+  </div>
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="Python" src="https://icongr.am/devicon/python-original.svg?size=80&color=currentColor" width="80"/>
+  </div>
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="NodeJS" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=80&color=currentColor" width="80"/>
+  </div>
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="35"/>
+  </div>
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="35"/>
+  </div>
+  <div style="display: inline-block; background-color: #e0e0e0; padding: 5px; border-radius: 5px; border: 1px solid #bdbdbd; margin: 5px;">
+    <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+  </div>
 </div>
+
 
 
 <h2 style="color: #DB7093;">⚙️ GitHub Estatísticas</h2>
