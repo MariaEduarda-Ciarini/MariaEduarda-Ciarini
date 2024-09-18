@@ -36,8 +36,8 @@ Front-end | Back-end | Estudando no momento
 </a>
 </div>
 
-<h2 style="color: #DB7093;">📬 Entre em Contato</h2>
 <div style="text-align: center;">
+  <h2 style="color: #DB7093;">📬 Entre em Contato</h2>
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 15px;">
     <a href="mailto:dudaciarinii@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" target="_blank" width="145" style="border-radius: 5px;">
