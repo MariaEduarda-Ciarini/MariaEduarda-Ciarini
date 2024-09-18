@@ -33,7 +33,8 @@ Front-end | Back-end | Estudando no momento
   </a>
   <a href="https://github.com/MariaEduarda-Ciarini">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=10&theme=dark&bg_color=11191f33&border_color=00000000&title_color=DB7093&text_color=2E8B57&text_bold=true" alt="Top Languages" style="border-radius: 8px;">
-  </a>
+</a>
+
 </div>
 
 <h2 style="color: #DB7093;">📬 Entre em Contato</h2>
