@@ -36,7 +36,7 @@ Front-end | Back-end | Estudando no momento
 </a>
 </div>
 
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
   <h2 style="color: #DB7093;">📬 Entre em Contato</h2>
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 15px;">
     <a href="mailto:dudaciarinii@gmail.com">
@@ -50,3 +50,4 @@ Front-end | Back-end | Estudando no momento
     </a>
   </div>
 </div>
+
