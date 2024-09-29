@@ -5,26 +5,33 @@
 
 Front-end | Back-end | Estudando no momento
 :---------:|:---------:|:----------------------:
-<a href="#"><img height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="HTML" /></a><a href="#"><img height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="CSS" /></a><a href="#"><img height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="JavaScript" /></a> | <a href="#"><img height="45" width="44" src="https://icongr.am/devicon/oracle-original.svg?size=75&color=currentColor" alt="Oracle" /></a><a href="#"><img height="50" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=100&color=currentColor" alt="Java" /></a><a href="#"><img height="50" width="40" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="Python" /></a> | <a href="#"><img height="32" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" /></a><a href="#"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" /></a><a href="#"><img height="33" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" /><a href="#"><img height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="React" /></a>
+<a href="#"><img height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="HTML" /></a><a href="#"><img height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="CSS" /></a><a href="#"><img height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="JavaScript" /></a> | <a href="#"><img height="45" width="44" src="https://icongr.am/devicon/oracle-original.svg?size=75&color=currentColor" alt="Oracle" /></a><a href="#"><img height="50" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=100&color=currentColor" alt="Java" /></a><a href="#"><img height="50" width="40" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="Python" /></a> | <a href="#"><img height="32" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" /></a><a href="#"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" /></a><a href="#"><img height="33" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" />
 
 </div>
 </div>
 
-<h2 style="color: #DB7093;">👩🏽‍💻 Aprimorando essas tecnologias</h2>
+<h2 style="color: #DB7093;">👩🏽‍💻 Habilidades Técnicas</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; background-color: #55555555; padding: 10px; border-radius: 10px; gap: 15px;">
-  <img alt="JavaScript" src="https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
-  <img alt="HTML" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=60&color=currentColor" style="flex: 0 1 60px;"/>
-  <img alt="CSS3" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=55&color=currentColor" style="flex: 0 1 55px;"/>
-  <img alt="Oracle" src="https://icongr.am/devicon/oracle-original.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
-  <img alt="MySQL" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
-  <img alt="Django" src="https://icongr.am/devicon/django-original.svg?size=70&color=currentColor" style="flex: 0 1 70px;"/>
-  <img alt="Java" src="https://icongr.am/devicon/java-original-wordmark.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
-  <img alt="Python" src="https://icongr.am/devicon/python-original.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
-  <img alt="NodeJS" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=80&color=currentColor" style="flex: 0 1 80px;"/>
-  <img alt="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50" width="35" style="flex: 0 1 50px;"/>
-  <img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40" width="35" style="flex: 0 1 40px;"/>
-  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="width: 50px; height: 50px;"/>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code></code>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="69" style="width: 69px; height: 69px; margin-right: 0px; margin-bottom: 0px;" />
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
+  </div>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"></code>
+  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"></code>
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
+  </div>
+  <code><img height="30" src="https://logosmarcas.net/wp-content/uploads/2020/09/Oracle-Logo.png" alt="Oracle"></code>
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="65" height="65" />
+  </div>
 </div>
+
+
 
 <h2 style="color: #DB7093;">⚙️ GitHub Estatísticas</h2>
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
@@ -36,7 +43,7 @@ Front-end | Back-end | Estudando no momento
 </a>
 </div>
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: column; left-items: left;">
   <h2 style="color: #DB7093;">📬 Entre em Contato</h2>
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 15px;">
     <a href="mailto:dudaciarinii@gmail.com">
