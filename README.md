@@ -10,26 +10,21 @@ Front-end | Back-end | Estudando no momento
 </div>
 </div>
 
-<h2 style="color: #DB7093;">👩🏽‍💻 Habilidades Técnicas</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; background-color: #55555555; padding: 10px; border-radius: 10px; gap: 15px;">
+<h2 style="color: #DB7093; text-align: center;">👩🏽‍💻 Habilidades Técnicas</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; background-color: #55555555; padding: 10px; border-radius: 10px; gap: 15px;">
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code></code>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="69" style="width: 69px; height: 69px; margin-right: 0px; margin-bottom: 0px;" />
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
-  </div>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="69" style="width: 69px; height: 69px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"></code>
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"></code>
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
-  </div>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
   <code><img height="30" src="https://logosmarcas.net/wp-content/uploads/2020/09/Oracle-Logo.png" alt="Oracle"></code>
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="65" height="65" />
-  </div>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="65" height="65" />
 </div>
+
 
 
 
