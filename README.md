@@ -45,7 +45,7 @@ Front-end | Back-end | Estudando no momento
       <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" target="_blank" width="145" style="border-radius: 5px;">
     </a>
     <a href="https://www.linkedin.com/in/maria-eduarda-ciarini-b97ab6270/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" width="175" style="border-radius: 5px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" width="140" style="border-radius: 5px;">
     </a>
     <a href="https://discord.com/channels/@Maria%20Eduarda%20Ciarini" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" width="165" style="border-radius: 5px;">
