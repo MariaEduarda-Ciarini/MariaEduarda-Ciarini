@@ -5,7 +5,7 @@
 
 Front-end | Back-end | Estudando no momento
 :---------:|:---------:|:----------------------:
-<a href="#"><img height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="HTML" /></a><a href="#"><img height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="CSS" /></a><a href="#"><img height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="JavaScript" /></a> | <a href="#"><img height="45" width="44" src="https://icongr.am/devicon/oracle-original.svg?size=75&color=currentColor" alt="Oracle" /></a><a href="#"><img height="50" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=100&color=currentColor" alt="Java" /></a><a href="#"><img height="50" width="40" src="https://icongr.am/devicon/python-original.svg?size=40&color=currentColor" alt="Python" /></a> | <a href="#"><img height="32" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" /></a><a href="#"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" /></a><a href="#"><img height="33" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" /></a><a href="#"><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" /></a>
+<a href="#"><img height="50" width="50" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor" alt="HTML" /></a><a href="#"><img height="50" width="50" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor" alt="CSS" /></a><a href="#"><img height="50" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" alt="JavaScript" /></a> | <a href="#"><img height="60" width="60" src="https://icongr.am/devicon/oracle-original.svg?size=75&color=currentColor" alt="Oracle" /></a><a href="#"><img height="60" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg?size=110&color=currentColor" alt="Java" /></a><a href="#"><img height="60" width="60" src="https://icongr.am/devicon/python-original.svg?size=60&color=currentColor" alt="Python" /></a> | <a href="#"><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" /></a><a href="#"><img height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" /></a><a href="#"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" /></a><a href="#"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" /></a>
 
 </div>
 </div>
@@ -14,17 +14,18 @@ Front-end | Back-end | Estudando no momento
 
 <h2 style="color: #DB7093; text-align: center;">👩🏽‍💻 Habilidades Técnicas</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; background-color: #55555555; padding: 10px; border-radius: 10px; gap: 15px;">
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
+  <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
+  <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="69" style="width: 69px; height: 69px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="65" height="65" />
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"></code>
-  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"></code>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
-  <code><img height="30" src="https://logosmarcas.net/wp-content/uploads/2020/09/Oracle-Logo.png" alt="Oracle"></code>
-  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
+  <code><img height="45" src="https://logosmarcas.net/wp-content/uploads/2020/09/Oracle-Logo.png" alt="Oracle"></code>
+  <code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI"></code>
+  <code><img height="45" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="65" height="65" />
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask"></code>
 </div>
 
 
