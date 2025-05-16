@@ -1,4 +1,17 @@
-<h1 align="center" style="color: #DB7093;">🎓 Cursando Análise e Desenvolvimento de Sistemas - FIAP (2023–2025)</h1>
+<div style="display: flex; gap: 10px; align-items: center;">
+
+  <h3 style="color: #DB7093; margin: 0;">
+    <img src="https://img.shields.io/badge/Systems%20Analysis%20and%20Development-(Back--End)-8A2BE2?style=for-the-badge&logo=code&logoColor=white" alt="Badge SAD Backend" />
+  </h3>
+
+  <div>
+<img src="https://img.shields.io/badge/Graduação-FIAP%202023–2025-%23DB7093?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="FIAP Badge" />
+  </div>
+
+</div>
+
+
+
 
 ---
 
