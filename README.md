@@ -1,12 +1,13 @@
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 15px; align-items: center; flex-wrap: nowrap;">
 
-  <h3 style="color: #DB7093; margin: 0;">
+  <div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://img.shields.io/badge/Systems%20Analysis%20and%20Development-(Back--End)-8A2BE2?style=flat&logo=code&logoColor=white" alt="Badge SAD Backend" />
-  </h3>
-
-  <div>
     <img src="https://img.shields.io/badge/Graduação-FIAP%202023–2025-%23DB7093?style=flat&logo=graduation-cap&logoColor=white" alt="FIAP Badge" />
   </div>
+
+  <a href="https://github.com/MariaEduardaCiarini" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-MariaEduardaCiarini-181717?style=flat&logo=github&logoColor=white" alt="GitHub Segundo Perfil Voltado Para Desenvolvimento Backend 1" />
+  </a>
 
 </div>
 
