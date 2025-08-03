@@ -1,13 +1,12 @@
 <div style="display: flex; gap: 15px; align-items: center; flex-wrap: nowrap;">
 
-  <div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://img.shields.io/badge/Systems%20Analysis%20and%20Development-(Back--End)-8A2BE2?style=flat&logo=code&logoColor=white" alt="Badge SAD Backend" />
-    <img src="https://img.shields.io/badge/Graduação-FIAP%202023–2025-%23DB7093?style=flat&logo=graduation-cap&logoColor=white" alt="FIAP Badge" />
-  </div>
-
-  <a href="https://github.com/MariaEduardaCiarini" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-MariaEduardaCiarini-181717?style=flat&logo=github&logoColor=white" alt="GitHub Segundo Perfil Voltado Para Desenvolvimento Backend 1" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Systems%20Analysis%20and%20Development-(Back--End)-8A2BE2?style=flat&logo=code&logoColor=white" alt="Badge SAD Backend" />
+  <img src="https://img.shields.io/badge/Graduação-FIAP%202023–2025-%23DB7093?style=flat&logo=graduation-cap&logoColor=white" alt="FIAP Badge" />
+  <a href="https://github.com/MariaEduardaCiarini" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-MariaEduardaCiarini-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
+</p>
 
 </div>
 
@@ -26,9 +25,10 @@
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white)
 
 ### Estudando Atualmente
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+
 
 ---
 
@@ -65,11 +65,8 @@
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL Badge">
 
-  <!-- H2 Database -->
-  <img src="https://img.shields.io/badge/H2-1D2C4D.svg?style=flat&logo=h2&logoColor=white" alt="H2 Database Badge">
 
 </div>
-
 
 ---
 
@@ -77,7 +74,6 @@
 
 <a href="https://github.com/MariaEduarda-Ciarini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&show_icons=true&theme=radical&count_private=true&bg_color=11191f33&title_color=DB7093&text_color=2E8B57&icon_color=FFFF00&border_color=000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&langs_count=10&theme=dark&bg_color=11191f33&border_color=000000&title_color=DB7093&text_color=2E8B57" />
 </a>
 
 ---
