@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Systems%20Analysis%20and%20Development-(Back--End)-8A2BE2?style=plastic&logo=code&logoColor=white" alt="Badge SAD Backend" />
-  <img src="https://img.shields.io/badge/Graduation-FIAP%202023–2025-%23DB7093?style=plastic&logo=graduation-cap&logoColor=white" alt="FIAP Badge" />
+<img src="https://img.shields.io/badge/Formada%20em%20Análise%20e%20Desenvolvimento%20de%20Sistemas-FIAP%202023–2025-%23DB7093?style=plastic&logo=graduation-cap&logoColor=white" alt="FIAP Badge" />
   <a href="https://github.com/MariaEduardaCiarini" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-MariaEduardaCiarini-181717?style=plastic&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
