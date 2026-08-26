@@ -22,13 +22,13 @@
 ### Back-end
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white)
-
-### Currently Learning
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=plastic&logo=spring-boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![AWS Cloud](https://img.shields.io/badge/AWS-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=FF9900)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white)
+
+### Currently Learning
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 
 
@@ -83,20 +83,4 @@
 
 <a href="https://github.com/MariaEduarda-Ciarini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&show_icons=true&theme=radical&count_private=true&bg_color=11191f33&title_color=DB7093&text_color=2E8B57&icon_color=FFFF00&border_color=000000" />
-</a>
-
----
-
-## 📬 Contact Me
-
-<a href="mailto:dudaciarinii@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="30px" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/maria-eduarda-ciarini-b97ab6270/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" height="30px" />
-</a>
-&nbsp;
-<a href="https://discord.com/channels/@Maria%20Eduarda%20Ciarini" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white" height="30px" />
 </a>
