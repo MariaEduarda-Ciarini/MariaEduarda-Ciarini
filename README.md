@@ -1,86 +1,109 @@
-<div style="display: flex; gap: 15px; align-items: center; flex-wrap: nowrap;">
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Systems%20Analysis%20and%20Development-(Back--End)-8A2BE2?style=plastic&logo=code&logoColor=white" alt="Badge SAD Backend" />
-<img src="https://img.shields.io/badge/Formada%20em%20Análise%20e%20Desenvolvimento%20de%20Sistemas-FIAP%202023–2025-%23DB7093?style=plastic&logo=graduation-cap&logoColor=white" alt="FIAP Badge" />
-  <a href="https://github.com/MariaEduardaCiarini" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-MariaEduardaCiarini-181717?style=plastic&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
+# Olá, eu sou a Maria Eduarda Ciarini 👋
+
+### Backend Developer | Analista e Desenvolvedora de Sistemas | Tecnologia & Dados
+
+<img src="https://img.shields.io/badge/Systems%20Analysis%20and%20Development-(Back--End)-8A2BE2?style=for-the-badge&logo=code&logoColor=white" alt="Badge SAD Backend" />
+<img src="https://img.shields.io/badge/FIAP-2023–2025-DB7093?style=for-the-badge&logo=googlescholar&logoColor=white" alt="FIAP Badge" />
+<img src="https://img.shields.io/badge/São%20Paulo-Brasil-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+
+<a href="https://github.com/MariaEduarda-Ciarini" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-MariaEduardaCiarini-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+</a>
+<a href="https://www.linkedin.com/in/mariaeduarda-ciarini" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+
+</div>
+
+---
+
+### 💡 Sobre mim
+
+Formada em **Análise e Desenvolvimento de Sistemas** pela **FIAP**, atuo na interseção entre **backend, dados e negócios**. Gosto de transformar problemas reais em soluções escaláveis, unindo raciocínio lógico, boas práticas de engenharia e visão analítica.
+
+- 🔭 Atualmente desenvolvendo com **Java + Spring Boot** e **Python + Flask/Django**
+- 🌱 Aprendendo **Kotlin** e **React**, explorando o front-end para construir produtos ponta a ponta
+- ☁️ Explorando **AWS** e boas práticas de arquitetura de APIs REST
+- 📊 Interesse por **dados, indicadores e análise para tomada de decisão**
+- 🤝 Sempre aberta a projetos colaborativos, mentoria e novas oportunidades
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-</div>
+## 🗄️ Dados & Cloud
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Data_Modeling-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+## 🛠️ Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/BrModelo-4B8BBE?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astah_UML-222222?style=for-the-badge&logo=uml&logoColor=white" />
+</p>
+
+## 🖥️ Sistemas Operacionais
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Technologies I Use
+## 📈 Estatísticas do GitHub
 
-### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black)
+<div align="center">
 
-### Back-end
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=plastic&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-![AWS Cloud](https://img.shields.io/badge/AWS-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=FF9900)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&show_icons=true&count_private=true&theme=radical&bg_color=11191f&title_color=DB7093&text_color=2E8B57&icon_color=FFD700&border_color=8A2BE2" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&theme=radical&bg_color=11191f&title_color=DB7093&text_color=2E8B57&border_color=8A2BE2" />
 
-### Currently Learning
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-
-
----
-
-## 🛠️ Tools
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=plastic&logo=insomnia&logoColor=white" />
-  <img src="https://img.shields.io/badge/BrModelo-4B8BBE.svg?style=plastic&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astah%20UML-222222.svg?style=plastic&logo=uml&logoColor=white" />
-
-</div>
-
----
-
-## 👩🏽‍💻 Technical Skills
-
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 10px; background-color: #55555555; padding: 15px; border-radius: 10px;">
-
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" alt="Java Badge">
-
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" alt="Python Badge">
-
-  <!-- Oracle PL/SQL -->
-  <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-%23F80000.svg?style=plastic&logo=oracle&logoColor=white" alt="Oracle Badge">
-
-  <!-- Data Modeling -->
-  <img src="https://img.shields.io/badge/Data%20Modeling-4B8BBE.svg?style=plastic&logo=datagrip&logoColor=white" alt="Modelagem Badge">
-
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL Badge">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaEduarda-Ciarini&theme=radical&background=11191f&stroke=8A2BE2&ring=DB7093&fire=FFD700&currStreakLabel=2E8B57" />
 
 </div>
 
 ---
 
-## 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-![WSL](https://img.shields.io/badge/-WSL-4D4D4D?style=plastic&logo=windows&logoColor=white)
+<div align="center">
 
----
+### 📫 Vamos conversar?
 
-## ⚙️ GitHub Stats
-
-<a href="https://github.com/MariaEduarda-Ciarini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&show_icons=true&theme=radical&count_private=true&bg_color=11191f33&title_color=DB7093&text_color=2E8B57&icon_color=FFFF00&border_color=000000" />
+<a href="mailto:mariaeduardaciarini@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/mariaeduarda-ciarini" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MariaEduarda-Ciarini&color=8A2BE2&style=for-the-badge&label=Visualizações+do+Perfil)
+
+</div>
