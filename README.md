@@ -82,9 +82,6 @@ Formada em **Análise e Desenvolvimento de Sistemas** pela **FIAP**, atuo na int
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&show_icons=true&count_private=true&theme=radical&bg_color=11191f&title_color=DB7093&text_color=2E8B57&icon_color=FFD700&border_color=8A2BE2" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&theme=radical&bg_color=11191f&title_color=DB7093&text_color=2E8B57&border_color=8A2BE2" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaEduarda-Ciarini&theme=radical&background=11191f&stroke=8A2BE2&ring=DB7093&fire=FFD700&currStreakLabel=2E8B57" />
 
 </div>
