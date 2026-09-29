@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Nome em rosa neon (arquivo em assets/neon-name.svg) -->
-<img src="./assets/neon-name.svg" alt="Maria Eduarda Ciarini" width="100%" />
+<!-- Nome em rosa neon (arquivo neon-name.svg na raiz do repositório) -->
+<img src="./neon-name.svg" alt="Maria Eduarda Ciarini" width="100%" />
 
 <!-- Texto digitando -->
 <a href="https://github.com/MariaEduarda-Ciarini">
