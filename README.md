@@ -1,12 +1,20 @@
 <div align="center">
 
-# Olá, eu sou a Maria Eduarda Ciarini 👋
+<!-- Nome em rosa neon (arquivo em assets/neon-name.svg) -->
+<img src="./assets/neon-name.svg" alt="Maria Eduarda Ciarini" width="100%" />
 
-### Backend Developer | Analista e Desenvolvedora de Sistemas | Tecnologia & Dados
+<!-- Texto digitando -->
+<a href="https://github.com/MariaEduarda-Ciarini">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5FC8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+a+Maria+Eduarda+%F0%9F%91%8B;Backend+Developer+%7C+Java+%2B+Spring+Boot;Python+%2B+Flask%2FDjango;Transformando+problemas+em+solu%C3%A7%C3%B5es+escal%C3%A1veis" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <img src="https://img.shields.io/badge/Systems%20Analysis%20and%20Development-(Back--End)-8A2BE2?style=for-the-badge&logo=code&logoColor=white" alt="Badge SAD Backend" />
 <img src="https://img.shields.io/badge/FIAP-2023–2025-DB7093?style=for-the-badge&logo=googlescholar&logoColor=white" alt="FIAP Badge" />
 <img src="https://img.shields.io/badge/São%20Paulo-Brasil-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+
+<br/>
 
 <a href="https://github.com/MariaEduarda-Ciarini" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-MariaEduardaCiarini-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
@@ -19,7 +27,10 @@
 
 ---
 
-### 💡 Sobre mim
+<details open>
+<summary><b>💡 Sobre mim</b> <i>(clique para abrir/fechar)</i></summary>
+
+<br/>
 
 Formada em **Análise e Desenvolvimento de Sistemas** pela **FIAP**, atuo na interseção entre **backend, dados e negócios**. Gosto de transformar problemas reais em soluções escaláveis, unindo raciocínio lógico, boas práticas de engenharia e visão analítica.
 
@@ -29,9 +40,14 @@ Formada em **Análise e Desenvolvimento de Sistemas** pela **FIAP**, atuo na int
 - 📊 Interesse por **dados, indicadores e análise para tomada de decisão**
 - 🤝 Sempre aberta a projetos colaborativos, mentoria e novas oportunidades
 
+</details>
+
 ---
 
 ## 🚀 Tecnologias
+
+<details>
+<summary><b>💻 Linguagens & Frameworks</b></summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -46,7 +62,10 @@ Formada em **Análise e Desenvolvimento de Sistemas** pela **FIAP**, atuo na int
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-## 🗄️ Dados & Cloud
+</details>
+
+<details>
+<summary><b>🗄️ Dados & Cloud</b></summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -56,7 +75,10 @@ Formada em **Análise e Desenvolvimento de Sistemas** pela **FIAP**, atuo na int
   <img src="https://img.shields.io/badge/Data_Modeling-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-## 🛠️ Ferramentas
+</details>
+
+<details>
+<summary><b>🛠️ Ferramentas</b></summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -68,13 +90,18 @@ Formada em **Análise e Desenvolvimento de Sistemas** pela **FIAP**, atuo na int
   <img src="https://img.shields.io/badge/Astah_UML-222222?style=for-the-badge&logo=uml&logoColor=white" />
 </p>
 
-## 🖥️ Sistemas Operacionais
+</details>
+
+<details>
+<summary><b>🖥️ Sistemas Operacionais</b></summary>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+
+</details>
 
 ---
 
@@ -83,6 +110,11 @@ Formada em **Análise e Desenvolvimento de Sistemas** pela **FIAP**, atuo na int
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaEduarda-Ciarini&theme=radical&background=11191f&stroke=8A2BE2&ring=DB7093&fire=FFD700&currStreakLabel=2E8B57" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MariaEduarda-Ciarini&show_icons=true&theme=radical&hide_border=true&bg_color=11191f&title_color=ff5fc8&icon_color=8A2BE2" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduarda-Ciarini&layout=compact&theme=radical&hide_border=true&bg_color=11191f&title_color=ff5fc8" />
 
 </div>
 
@@ -102,5 +134,9 @@ Formada em **Análise e Desenvolvimento de Sistemas** pela **FIAP**, atuo na int
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MariaEduarda-Ciarini&color=8A2BE2&style=for-the-badge&label=Visualizações+do+Perfil)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
